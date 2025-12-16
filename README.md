@@ -1,6 +1,6 @@
 <!-- Title -->
 <div align=center > 
-    <p  style="font-size: 40px;"> crud-makar-ci3 </p>
+    <p  style="font-size: 100px;"> crud-makar-ci3 </p>
     <p  style="font-size: 20px;"> Manajemen Karyawan </p>
     <a href="https://github.com/rafifadhlu/crud-makar-ci3"> see full project</a>
     &middot;
