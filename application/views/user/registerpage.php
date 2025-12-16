@@ -7,7 +7,7 @@
 
     <?php flash_alert() ?>
 
-    <div class="wrapper d-flex flex-column align-items-center" style="display: flex; margin-top:250px;">
+    <div class="wrapper d-flex flex-column align-items-center" style="display: flex; margin-top:170px;">
         <p class="text-decoration-none" style="margin-right: 380px;"><?php echo anchor('', '&larr; home!', ['class' => 'text-secondary text-decoration-none fw-semibold']); ?></p>
 
         <div class="wrapperForm w-100 d-flex justify-content-center">
